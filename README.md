@@ -168,6 +168,12 @@ README.md
 
 * * *
 
+## Live Preview
+
+Check out the live version of the project! [View Live Demo](https://redis-demo-eight.vercel.app/).
+
+* * *
+
 ## ✅ Notes
 
 *   This project is intended for learning and demo purposes
